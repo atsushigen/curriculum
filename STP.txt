@@ -1,0 +1,11 @@
+ルートブリッジ→Switch２
+プライマリティが最小になるため
+
+ルートポート→switch１　
+パスコスト最小になるため
+switch１→switch２　パスコスト　１９
+switch３→switch２　パスコスト　３８
+switch４→switch２　パスコスト　１００
+
+指定ポート→switch３
+ブロッキングポート→switch４
